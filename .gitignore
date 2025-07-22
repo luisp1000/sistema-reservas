@@ -1,0 +1,21 @@
+# Compilados de Java
+*.class
+
+# Archivos de log
+*.log
+
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Archivos del sistema
+.DS_Store
+
+# IDEs
+*.iml
+.idea/
+.vscode/
+
+# Base de datos local (si la usas)
+*.db
+*.sqlite
